@@ -59,7 +59,7 @@ Building scalable web applications, dashboards and automation tools.
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benluts256&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benluts256&layout=compact)
 
 ---
 
