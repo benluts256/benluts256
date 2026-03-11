@@ -25,6 +25,7 @@ Building scalable web applications, dashboards and automation tools.
 - JavaScript  
 - SQL
 - Java
+- TypeScript
   
 
 **Frontend**
@@ -82,7 +83,8 @@ Scripts for automating system tasks and data processing.
 
 - GitHub: https://github.com/benluts256  
 - Email: lutaayabenon4@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/benon-lutaaya-8687632a4/ 
+- LinkedIn: https://www.linkedin.com/in/benon-lutaaya-8687632a4/
+- portfolio: https://benon-portfolio.vercel.app/ 
 ---
 
-⭐ From **Benon Lutaaya**
+⭐ From **Benon Lutaaya **
