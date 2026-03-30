@@ -13,7 +13,7 @@ Building scalable web applications, dashboards and automation tools.
 - 🔭 Currently working on **SaaS dashboards and automation tools**
 - 🌱 Learning **cloud deployment,machine learning and system design**
 - 👯 Open to **collaboration and freelance projects**
-- ⚡ Passionate about **Python, React and building useful tools**
+- ⚡ Passionate about **Python & its libraries, React and building useful tools**
 
 ---
 
