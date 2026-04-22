@@ -11,7 +11,7 @@ Building scalable web applications, dashboards and automation tools.
 
 - 💻 Software engineer based in Kampala, Uganda
 - 🔭 Currently working on **SaaS dashboards and automation tools**
-- 🌱 Learning **cloud deployment,machine learning and system design**
+- 🌱 Learning **Data Science ,machine learning and system design**
 - 👯 Open to **collaboration and freelance projects**
 - ⚡ Passionate about **Python & its libraries, React and building useful tools**
 
@@ -21,10 +21,10 @@ Building scalable web applications, dashboards and automation tools.
 
 **Languages**
 
-- Python  
-- JavaScript  
+- Python   
 - SQL
 - Java
+- R
 - TypeScript
   
 
@@ -36,14 +36,15 @@ Building scalable web applications, dashboards and automation tools.
 
 **Backend**
 
-- Node.js  
+- Node.js
+- Django  
 - Supabase  
 - REST APIs  
 
 **Tools**
 
 - Git  
-- Docker  
+    
    
 
 ---
